@@ -1,0 +1,11 @@
+Role Description:
+
+"Welcome to _____! You are a Potion Master.
+
+Role Abilities:
+- You are able to heal/attack/reveal players at night.
+
+Factional Abilities:
+- You are given a common coven night chat with the other members of the coven.
+
+Win Condition: You win when all threats are eliminated."

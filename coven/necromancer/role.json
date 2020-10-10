@@ -1,0 +1,32 @@
+{
+  "role-name": "Necromancer",
+
+  "alignment": "coven",
+  "class": "evil",
+
+  "see-coven-chat": true,
+
+  "stats": {
+    "basic-defense": 0,
+    "roleblock-immunity": 2,
+    "detection-immunity": 0,
+    "control-immunity": 2,
+		"redirection-immunity": 0,
+		"kidnap-immunity": 0,
+    "priority": 5,
+    "vote-offset": 0,
+		"vote-magnitude": 1
+  },
+
+  "investigation": ["Necromancer", "Jailor", "Medium", "Retributionist", "Trapper"],
+  "secondary-roles": null,
+
+  "role-actions": true,
+  "factional-abilities": [],
+
+  "tags": [],
+
+  "reveal-role-on-interrogation": false,
+
+  "win-condition": "coven"
+}
