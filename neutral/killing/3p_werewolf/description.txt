@@ -1,0 +1,8 @@
+Role Description:
+
+"Welcome to _____! You are a Werewolf.
+
+Role Abilities:
+- You are able to transform and kill someone when it's the full moon.
+
+Win Condition: You win when all threats are eliminated."
