@@ -1,0 +1,1 @@
+Folders are roles, javascript files are win conditions
