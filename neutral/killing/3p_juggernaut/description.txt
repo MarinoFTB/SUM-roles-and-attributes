@@ -1,0 +1,9 @@
+Role Description:
+
+"Welcome to _____! You are a Juggernaut.
+
+Role Abilities:
+- You may kill a person every full moon.
+- With each kill you grow more powerful.
+
+Win Condition: You win when all threats have been eliminated."
